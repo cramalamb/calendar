@@ -7,3 +7,6 @@ __pycache__/
 .env
 credentials.json
 token.json
+
+# OS files
+.DS_Store
