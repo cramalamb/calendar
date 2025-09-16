@@ -1,0 +1,9 @@
+# Python env and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
+credentials.json
+token.json
